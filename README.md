@@ -1,16 +1,15 @@
-## Hi there 👋
+> You followed your conscience in the hope that others would follow theirs.
+> You didn’t do it for a reward, or a pat on the head.
 
-<!--
-**SmokyRainbow/SmokyRainbow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> The universe never tells us if we did right or wrong.
+> It’s more important to try to help people than to know that you did.
+> More important that someone else’s life gets better than for you to feel good about yourself.
 
-Here are some ideas to get you started:
+> You never know the effect you might have on someone, not really.
+> Maybe one core thing you said haunts them forever.
+> Maybe one moment of kindness gives them comfort or courage.
+> Maybe you said the one thing they needed to hear.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> It doesn’t matter if you never know.
+> You just have to try.
+Naomi Nagata
